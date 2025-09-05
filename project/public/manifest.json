@@ -1,0 +1,21 @@
+{
+  "name": "JEE Mains 2026 Preparation Platform",
+  "short_name": "JEE Prep 2026",
+  "description": "Your focused study companion for JEE Mains 2026 success",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
